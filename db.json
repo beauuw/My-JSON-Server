@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "number": "hello",
+      "number": "",
       "email": "example@example.com",
       "password": "password123"
     }
