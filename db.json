@@ -1,13 +1,1 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "number": "",
-      "email": "example@example.com",
-      "password": "password123"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+
